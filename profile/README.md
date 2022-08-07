@@ -1,5 +1,5 @@
 ## Greetings! 
-Hello and welcome to the org profile for the Legend of Dragoon modding community! This is where we house our open-source coding projects made by fans for public use. Currently, our most popular code-related projects are the Dragoon Modifier modding suite, and the upcoming Upscale mod that features improved graphic fidelity. Note that this only covers code-related projects. [View full project list](https://legendofdragoon.org/projects/).
+Hello and welcome to the org profile for the Legend of Dragoon modding community! This is where we house our open-source coding projects made by fans for public use, including the Dragoon Modifier modding suite. Note that this page only covers code-related projects. [View full project list](https://legendofdragoon.org/projects/).
 
 ## Documentation
 Some documentation can be found in the community resource archive. Most of the archive is being moved to our web server, but for the time being our text documents and spreadsheets are still housed on Google Drive. [Click here](https://drive.google.com/drive/u/0/folders/1V73BC8X9j_FW1lo6DiQI7FXDzhmQ77wM) to go to the Modding subfolder.
