@@ -12,8 +12,9 @@ If you're interested in contributing to one or more of our projects, let us know
 
 If you want to help financially instead, consider a Ko-fi donation!
 
-Monoxide (lead developer): [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W4HFVW9)
-DrewUniverse (community director): [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J0DVKST)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W4HFVW9) Monoxide (lead developer)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J0DVKST) DrewUniverse (community director)
 
 <!--
 
