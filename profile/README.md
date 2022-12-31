@@ -8,11 +8,12 @@ If we have any documentation within our repositories, those should be mentioned 
 -->
 
 ## Looking to help?
-You may apply to be a contributor to one or more of the code repositories affiliated with this org profile. Check them out, see what you want to work on, and let us know in the #modding channel of the community [Discord Server](https://discord.gg/rQWXgK5) with some of your background info. If it looks like a good fit, we'll add you to the repository!
+If you're interested in contributing to one or more of our projects, let us know in the #modding channel of the community [Discord Server](https://discord.gg/rQWXgK5) and we'll help you get started.
 
-If you want to help financially instead, consider a Ko-fi donation! [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J0DVKST)
+If you want to help financially instead, consider a Ko-fi donation!
 
-
+Monoxide (lead developer): [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W4HFVW9)
+DrewUniverse (community director): [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J0DVKST)
 
 <!--
 
