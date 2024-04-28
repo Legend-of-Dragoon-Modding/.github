@@ -1,5 +1,5 @@
 ## Greetings! 
-Hello and welcome to the org profile for the Legend of Dragoon modding community! This is where we house our open-source coding projects made by fans for public use, including the Dragoon Modifier modding suite. Note that this page only covers code-related projects. [View full project list](https://legendofdragoon.org/projects/).
+Hello and welcome to the org profile for the Legend of Dragoon modding community! This is where we house our open-source coding projects made by fans for public use, including the incredible Severed Chains PC port. Note that this page only covers code-related projects. [View full project list](https://legendofdragoon.org/projects/).
 
 ## Documentation
 Some documentation can be found in the community resource archive. Most of the archive is being moved to our web server, but for the time being our text documents and spreadsheets are still housed on Google Drive. [Click here](https://drive.google.com/drive/u/0/folders/1V73BC8X9j_FW1lo6DiQI7FXDzhmQ77wM) to go to the Modding subfolder.
@@ -8,7 +8,7 @@ If we have any documentation within our repositories, those should be mentioned 
 -->
 
 ## Looking to help?
-If you're interested in contributing to one or more of our projects, let us know in the #modding channel of the community [Discord Server](https://discord.gg/rQWXgK5) and we'll help you get started.
+If you're interested in contributing to one or more of our projects, let us know in the #modding channel of the community [Discord Server](https://discord.gg/rQWXgK5) and we'll help you get started. Note that our additional project boards on Trello are being migrated to Github in May 2024.
 
 If you want to help financially instead, consider a Ko-fi donation!
 
